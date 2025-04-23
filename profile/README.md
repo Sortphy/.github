@@ -15,4 +15,4 @@
 ----------
 
 #### Nossos exercícios de Inteligência Artificial (Prof. Claudinei) resolvidos com representação visual via website:
-- **Caixeiro Viajante com ACO:** https://sortphy.github.io/caixeiro/
+- **Caixeiro Viajante com ACO e Mapas Procedurais:** https://sortphy.github.io/caixeiro/
