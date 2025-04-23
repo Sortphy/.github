@@ -8,7 +8,11 @@
 
 ----------
 
-#### Nossos exercícios resolvidos com representação visual via website:
+#### Nossos exercícios de Algoritmos Avançados (Prof. Glauco) resolvidos com representação visual via website:
 - **Problema da Mochila:** https://sortphy.github.io/knapsack/
 - **Buscador de Texto:** https://sortphy.github.io/dune-search/
+
+----------
+
+#### Nossos exercícios de Inteligência Artificial (Prof. Claudinei) resolvidos com representação visual via website:
 - **Caixeiro Viajante com ACO:** https://sortphy.github.io/caixeiro/
