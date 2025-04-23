@@ -11,6 +11,7 @@
 #### Nossos exercícios de Algoritmos Avançados (Prof. Glauco) resolvidos com representação visual via website:
 - **Comparador de Algoritmos no Problema da Mochila:** https://sortphy.github.io/knapsack/
 - **Comparador de Algoritmos Buscadores de Texto:** https://sortphy.github.io/dune-search/
+- **Comparador de Algoritmos de Ordenação:** https://github.com/sortphy/py
 
 ----------
 
