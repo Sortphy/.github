@@ -16,3 +16,4 @@
 
 #### Nossos exercícios de Inteligência Artificial (Prof. Claudinei) resolvidos com representação visual via website:
 - **Caixeiro Viajante com ACO e Mapas Procedurais:** https://sortphy.github.io/caixeiro/
+- **Cálculo de Gorjeta com Algoritimo Fuzzy:** https://sortphy.github.io/fuzzy/
